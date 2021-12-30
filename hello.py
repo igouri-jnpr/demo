@@ -1,2 +1,2 @@
-print("ri9iohellrro wolrdo")
+prinfhjrbft("ri9iohellrro wolrdo")
 
